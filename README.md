@@ -6,7 +6,8 @@ This project is an interactive **Power BI dashboard built using the Global Super
 The objective is to analyze sales performance, profitability, customer segments, markets, regions, countries, product categories, order status, and customer purchasing patterns.
 
 The dashboard combines **data transformation, DAX calculations, interactive slicers, KPI cards, maps, charts, tables, and drill-down analysis** to convert raw transactional data into business insights.
-
+## Project Files
+- [Download Power BI Dashboard (.pbix)] (https://drive.google.com/file/d/1GwByu1nHlqAS1XGe87DYW-zVI85rktKr/view?usp=drive_link)
 ---
 
 ## 🎯 Business Objectives
